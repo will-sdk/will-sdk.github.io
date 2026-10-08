@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "7DB65X38P5.com.tdcm.7eleventh.staging" ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "อนุญาตให้เปิดแอปจากทุก Path"
+          }
+        ]
+      }
+    ]
+  }
+}
